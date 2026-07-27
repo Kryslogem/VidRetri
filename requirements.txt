@@ -1,0 +1,15 @@
+# Core Video & Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+imagehash>=4.3.0
+scikit-image>=0.21.0
+
+# Progress & Utilities
+tqdm>=4.65.0
+
+# AI / ML & Semantic Feature Extraction (CLIP & Clustering)
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.2.0
+
